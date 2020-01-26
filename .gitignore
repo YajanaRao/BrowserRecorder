@@ -1,0 +1,4 @@
+/Screenshots/*
+*.pyc
+/env
+.vscode
