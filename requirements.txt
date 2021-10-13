@@ -1,7 +1,7 @@
 ﻿mss==5.0.0
 numpy==1.18.0
 opencv-python==4.2.0.32
-Pillow==6.2.1
+Pillow==8.3.2
 schedule==0.6.0
 selenium==3.141.0
 urllib3==1.25.7
