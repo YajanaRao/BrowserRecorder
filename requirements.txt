@@ -1,5 +1,5 @@
 ﻿mss==5.0.0
-numpy==1.18.0
+numpy==1.22.0
 opencv-python==4.2.0.32
 Pillow==9.3.0
 schedule==0.6.0
